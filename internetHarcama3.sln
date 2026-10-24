@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "internetHarcama3", "internetHarcama3\internetHarcama3.csproj", "{37ABEE79-CC08-4100-A559-4FFB34A7A4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37ABEE79-CC08-4100-A559-4FFB34A7A4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37ABEE79-CC08-4100-A559-4FFB34A7A4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37ABEE79-CC08-4100-A559-4FFB34A7A4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37ABEE79-CC08-4100-A559-4FFB34A7A4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE59E642-9F01-4849-B7D1-CC09374738D8}
+	EndGlobalSection
+EndGlobal
