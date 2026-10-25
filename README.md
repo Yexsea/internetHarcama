@@ -9,13 +9,7 @@ See which programs are using your internet right now, how fast, and how much dat
 ![ETW](https://img.shields.io/badge/ETW-TraceEvent-0078D6?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-<!-- DEMO-BASLANGIC  (video eklerken bu satırı ve aşağıdaki DEMO-BITIS satırını sil)
-## ▶ Demo
-
-VIDEO_LINKI_BURAYA
-
-*Recorded from a sandbox replica that reproduces the console layout and decision logic with simulated traffic (the real tool needs Windows and administrator rights): processes cross the 25 MB limit, one is allowed, one is shut down, and a system process is left alone.*
-DEMO-BITIS -->
+https://github.com/user-attachments/assets/6401913b-f1dd-450f-af7c-4363478790a7
 
 ---
 
